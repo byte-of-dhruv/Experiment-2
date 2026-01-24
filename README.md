@@ -4,8 +4,8 @@ Aim - Study of List in Python
 
 Theory - 
 List in Python is used to store multiple data in one variable.
-Append() command is used in pyhon to add an element to a list.
-Insert() command is used in python to add an element to a list on a specific address.
+append() command is used in pyhon to add an element to a list.
+insert() command is used in python to add an element to a list on a specific address.
 max() command for largest element in a list.
 extend() for combining two or more lists.
 min() command for miniest element in a list.
