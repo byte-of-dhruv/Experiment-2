@@ -18,19 +18,20 @@ remove() for removing an element in a list.
 
 Algorithm -
 1. list_1 = []
-
 2. Printing specific elements
    list_1 = []
    print(list_1[])
-
 3. For adding elements
    list_1.append()
-
 4. For inserting
    list1.insert()
-
 5. For combining lists
    list_1.extend(list_2)
+6. print(max(marks))
+7. print(min(marks))
+8. print(len(marks))
+9. print(sum(marks))
+10.print(sorted(marks))
+11.print(sum(marks)/len(marks))
 
-6. 
-
+Coclusion - We learned different commands for list in python.
